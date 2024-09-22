@@ -96,11 +96,3 @@
 <h1 align="center">へ     ♡   ╱|、<br>      ૮  -   ՛ )      (`   -  7<br>       /   ⁻  ៸|       |、⁻〵<br> 乀 (ˍ, ل ل      じしˍ,)ノ</h1>
 
 ###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/httptine">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=httptine&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
