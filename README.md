@@ -87,12 +87,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/chrstnglmtc/chrstnglmtc/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/chrstnglmtc/count.svg?"  />
 </div>
